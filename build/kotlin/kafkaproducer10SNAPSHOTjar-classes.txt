@@ -1,0 +1,1 @@
+/home/admin1/Projects/Kafka/kafkaproducer/build/classes/kotlin/main/KafkaProducer.class:/home/admin1/Projects/Kafka/kafkaproducer/build/classes/kotlin/main/KafkaProducerKt.class:/home/admin1/Projects/Kafka/kafkaproducer/build/classes/kotlin/main/model/Person.class
